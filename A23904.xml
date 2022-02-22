@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the contents of several letters relating to the management of affairs with Rome by the D. of Y. [i.e.the Duke of York] and others published for satisfaction of the people, with a preface : shewing our present dangers and the authors thereof / by a Protestant.</title>
+            <author>Protestant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23904</idno>
+            <idno type="STC">Wing A131</idno>
+            <idno type="STC">ESTC R5976</idno>
+            <idno type="EEBO-CITATION">11483890</idno>
+            <idno type="OCLC">ocm 11483890</idno>
+            <idno type="VID">47821</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the contents of several letters relating to the management of affairs with Rome by the D. of Y. [i.e.the Duke of York] and others published for satisfaction of the people, with a preface : shewing our present dangers and the authors thereof / by a Protestant.</title>
+                  <author>Protestant.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47821:1"/>
+            <pb n="1" facs="tcp:47821:1" rendition="simple:additions"/>
+            <head>AN ABSTRACT OF THE CONTENTS Of Several LETTERS Relating to the MANAGEMENT OF Affairs with Rome, BY THE D. of Y. and Others. Publiſhed for Satisfaction of the People, with a Preface. Shewing our preſent Dangers, and the Authors thereof. By a <hi>Proteſtant.</hi>
+            </head>
+            <opener>
+               <salute>To all Proteſtant Engliſh.</salute>
+            </opener>
+            <p>YOU cannot think it poſſible without a Miracle, that the bottom of this execrable Popiſh Plot, contrived and carried on at this time, under the Umbrage and Countenance of many of our Grandees, <hi>Favorers</hi> and Profeſſors of the Popiſh Reli<g ref="char:EOLhyphen"/>gion, for Murdering the King, and Subverſion of our Religion and Government, ſhould appear to the World under the Hand Writing of the Conſpirators, ſeeing the power and influence they had upon the Government, when Mr. <hi>Oates</hi> offered his firſt Information of the Plot, gave them confidence, it may be not without Reaſon, to aſſure themſelves, notwithſtanding ſuch Diſcovery, to be ſafe under the Accuſation, and certain of accompliſhing their Deſigns,
+<pb n="2" facs="tcp:47821:2"/>
+and thereby the Conſpirators being at the firſt handled gently, had opportunity and were helped to convey away their Papers and Letters, which had they ever appeared in view, would have told the whole matter beyond contradiction. And had not <hi>Coleman</hi> by a ſtrange confidence and infatuation, left in his Houſe ſome Papers not valued by him (though yet containing enough to demonſtrate the Bulk of the Deſign) we had had but very little of it under the Plotters hands, but thoſe Letters and Papers containing tranſacti<g ref="char:EOLhyphen"/>ons paſt Three Years ſince, did not ſo fully make out the Deſign, as the later Letters and Papers would (without doubt) have done which by the vigilance of our Enemies, and the Treachery of our pretended Friends have been concealed burnt and deſtroyed.</p>
+            <p>The Abſtract of ſome of thoſe Letters that eſcaped are here pre<g ref="char:EOLhyphen"/>ſented to publick view, whereby it will appear to all Proteſtants, who have been our greateſt Boſom Enemies in Conjunction with <hi>Rome</hi> for our Deſtruction, and what power and influence <hi>Rome</hi> had over the Councils of this Nation, moſt of the Perſons therein mentioned, being well known to be great Zelots in the Romiſh Superſtition, and one of them the very occaſion of the Plot, which the late Houſe of Commons hath in a Vote for that purpoſe, grounded upon undenyable Evidence and Demonſtration it ſelf, worthily and truly ſignified to the Nation.</p>
+            <p>Can any Man in his wits, but apprehend from what ſprings flow, the preſent hopes the Papiſts have of playing an after game, and replanting their Superſtition once more in this Kingdom? Are not all their hopes in a Popiſh Succeſſor, who is come lately from beyond the Seas, with a mind we fear, as little Agreeable to the temper as the Religion of the Engliſh Nation?</p>
+            <p>All that you have is now at ſtake, a King that is an Idolater makes his people like himſelf (as the many Examples in the Old Teſta<g ref="char:EOLhyphen"/>ment will ſufficiently illuſtrate) ſo that whoſoever is for a Popiſh King, let their pretences be never ſo ſpecious is for Popery. And the Idolatry (which ſome miſcall Religion) now exerciſed by the Papiſts, much worſe then that practiſed in old <hi>Rome,</hi> and the Laws of the Realm (whereby our liberties and properties are fenced and maintained) are inconſiſtent; the ſame hour your Religion is alter<g ref="char:EOLhyphen"/>ed (which a Popiſh King (if ever God ſhall be pleaſed to puniſh us with ſuch) will certainly effect) the ſame day the whole Law will be deſtroyed, and the Engliſh Nation will be reduced thereby to abſolute ſlavery, under the moſt malicious Enemy it hath, fur<g ref="char:EOLhyphen"/>niſhed with a revengeful mind, which nothing but Slavery, Ruin, and an Ocean of Engliſh Blood can ſatisfie.</p>
+            <p>
+               <pb n="3" facs="tcp:47821:2"/>It may be at preſent his pretences may be modeſt, though his own party gives out, he intends to make a Bargain with the Peo<g ref="char:EOLhyphen"/>ple by turning Proteſtant, if the hard hearted Hereticks will ac<g ref="char:EOLhyphen"/>cept thereof for all they have, but my dear Country-men, you may not relye upon ſuch Counterfeit Jeſuitical ſhams, in caſe he ſhould renounce his Idolatry, upon peril of looſing your ſelves, Re<g ref="char:EOLhyphen"/>ligion and Eſtates, you can have no aſſurance that this turn is re<g ref="char:EOLhyphen"/>al, and be aſſured it is all Impoſture and Juggle, which the Tenets of the Romiſh Superſtition, do not only allow, but command him to Act for the advancement of the Holy Church, do but reflect upon his preſent Carriage and the Carriages of his Accomplices in ridiculing the Plot, and ſlandering and contemning the Diſco<g ref="char:EOLhyphen"/>veries and Evidences thereof. And then you can never be ſedu<g ref="char:EOLhyphen"/>ced to imagine he Acts a Proteſtant, with any other deſign then the intire ruin of your Religion and Government.</p>
+            <p>All his fine Speeches and promiſes are to be lookt upon as nothing, you know 'tis an eſtabliſhed Doctrine in one of their Councels, That Faith is not to be kept with Hereticks, And ſuch he eſteems you.</p>
+            <p>I have heard that 'tis as Common as Diſpenſations from the Pope, that the Serpent allwayes before he Drinks, Vomits up his Poyſon, and when he hath Drank his Fill, licks it up again; ſo it's poſſible may the D. his Idolatry, till he and his Accomplices may be in a capacity to Drink the Blood of the Proteſtants at will and pleaſure.</p>
+            <p>Call to mind the Story of Queen <hi>Mary,</hi> who did not without our D. hate the Nation, how ſhe perſwaded our Fore-Fathers, and eſpecially the <hi>Suffolk</hi>-men to Fight for Her, under many promiſes, and aſſurances, that She would eſtabliſh them in their Proteſtant Religion, but She having obtained her end, and got into the Throne by their Aſſiſtance, She Burnt more Proteſtants of <hi>Suffolk,</hi> then of any other County in <hi>England.</hi>
+            </p>
+            <p>Therefore if you believe like men or Chriſtians, acquit your ſelves like men for the Glory of God, the ſafety of the Kings Per<g ref="char:EOLhyphen"/>ſon, and the benefit of your ſelves and poſterity in oppoſing ſuch deſigns (of which (if effected) will render you of all men moſt miſerable.)</p>
+            <p>
+               <note place="margin">Cardinal of <hi>Nor<g ref="char:EOLhyphen"/>folks</hi> Letter to Mr. <hi>Coleman.</hi>
+               </note>By his Letter of the Fourth of <hi>January</hi> 1676. It appears Sir <hi>Henry Tichborn</hi> was a Meſſenger to <hi>Rome.</hi> He rejoyceth at the Prorogation—ſaith if the King would do well all would be well. Hopes to ſerve the Duke to good purpoſe.</p>
+            <p>
+               <pb n="4" facs="tcp:47821:3"/>In his Letter of the Eighth of <hi>February</hi> 1676. Saith he doth all he can to ſerve the Duke—Hath writ to Mr. <hi>Haies</hi> at his Brothers—moves that the Kings Miniſters may joyn with the Popes Miniſters about P. <hi>Furſtenburge,</hi> and about the peace, and the Pope will ſend a Miniſter on purpoſe.</p>
+            <p>His Letter of <hi>March</hi> 1676. was ſigned Cardi<g ref="char:EOLhyphen"/>nal of <hi>Norfolk,</hi>
+               <note place="margin">Mr. <hi>Coleman</hi> to be asked who the Meſſenger was</note> was ſent by an expreſs that was to return with what his Maſter and Miſtriſs had to Communicate—this was a Letter of Cre<g ref="char:EOLhyphen"/>dence.</p>
+            <p>In his Letter of <hi>March</hi> 14th. 1676. he odrers Mr. <hi>Laburne</hi> his Auditor to write—underſtands the Duke received his—uſeth to direct his Letters to the Portugal Embaſſador for Mr. <hi>Coleman.</hi> Takes notice of <hi>Plunket</hi> having the Letter of Arch-bi<g ref="char:EOLhyphen"/>ſhop <hi>Talbot</hi> at <hi>Rome</hi>—offers his ſervice to the Duke and all the Catholicks whether they will or
+no—ſaith <hi>Talbot</hi> is enough to ſpoil all—his conſtant cuſtom is forging Letters—ſaith if the Duke make uſe of him he will much diſgrace himſelf, and the cauſe and put the Catholicks in deriſion, which is the way to de<g ref="char:EOLhyphen"/>ſtroy them—which if then Cardinal <hi>Norfolk</hi> and his Confriers may ſhut up their Shops—If he had not taken care the <hi>Match</hi> had been broken off with the Dutches—that a Friend of his at <hi>Paris</hi> firſt ſet the Match on foot—ſaith he promoted the Match to ſerve the Duke and the Catholick Religion in <hi>England,</hi> and that he and his are in great Power with <hi>Rome</hi> and <hi>Spain</hi>—ſaith it will prejudice the Duke if he be partial—com<g ref="char:EOLhyphen"/>plains of want of Countenance from the King—propoſeth a Barony to be got of the King for him to get Money for—propoſeth the Duke may manage it—ſaith, it would be no <hi>Scandala Magnata</hi> though for a Catholick more then when Sir <hi>Francis Radcliff</hi> was in motion—takes notice the Pope is not ſatisfied with the Education of the Dukes Daughters. Deſpairs not of getting a Penſion from <hi>Rome</hi> for the Dutcheſſes Secreta<g ref="char:EOLhyphen"/>ry.</p>
+            <p>In his Letter of the 24th. of <hi>March</hi> owns the Receipt of Let<g ref="char:EOLhyphen"/>ters of the 17th. and 20th. of <hi>March.</hi> Takes notice of the Dukes being advanced to the Catholick Religion to the Joy of the Pope, but by his of the 27th. fully compleated their Joy —hopes the Dutches will bring forth a Happy Roman Catholick.</p>
+            <p>
+               <pb n="5" facs="tcp:47821:3"/>In his Letter of the 20th of <hi>June</hi> rejoyceth, that the Dutches will write to the Pope,<note place="margin">This confirms Mr. <hi>Oates.</hi>
+               </note> takes no<g ref="char:EOLhyphen"/>tice that there is and hath been Long a Biſhop for <hi>England.</hi> That they intend to ſend him with others when due time will be.</p>
+            <p>In his Letter of the 21th of <hi>September</hi>—We promiſe our ſelves, that he will do much for the Catholick Religion—That the Cardinal hath writ to the Duke and Dutches, and invites their Highneſſes to write to the Pope—The Pope and the Cardinals rejoyce at the Dutcheſſes Delivery of a Daughter.</p>
+            <p>In his Letter of <hi>April</hi> the 18th 1676. takes notice that Sir <hi>Henry Tichbourn</hi> had Audience of the Pope. That there was a diſ<g ref="char:EOLhyphen"/>penſation granted for the Dutcheſſes Marriage, which was delayed before, becauſe the Pope was not fully ſatisfied of the Duke's be<g ref="char:EOLhyphen"/>ing a Catholick—The Pope deſires not the Duke to declare himſelf a Roman Catholick raſhly and unadviſedly, but would have him not conform to the Church of <hi>England,</hi>—wrote for 100000 Crowns to <hi>Rome</hi> for the Duke—hopes in time to get a penſion for the Dutcheſſes Secretary—Takes notice of one that called himſelf the Dukes Agent at <hi>Rome,</hi> ſuppoſed to be an Italian. He left a Letter at Cardinal <hi>Barbarin's.</hi> Cardinal <hi>Norfolk</hi> offers <hi>John Laborn</hi> to be the Dukes Agent, for that it's fit for him to have one, and that the Cardinal will ſupply what he cannot do, and deſires it may be offer'd the Duke in his Name—Takes notice that he is now the Queens Servant—That he writ by Sir <hi>Henry Tichborn</hi> to the Duke and Dutches lately.</p>
+            <p>In his 16th of <hi>May</hi> 1676. ſaith, if the Duke or Dutches imploy the Arch-biſhop of <hi>Dublin</hi> it will confound their Affairs.</p>
+            <p>This Letter of the 5th of <hi>September</hi> 1676. takes notice that Cardinal <hi>Norfolk</hi> hath received Letters from the King and Duke, enjoyning his adherence to the <hi>French</hi>—Takes notice that he hath writ to the Lord <hi>Arundel,</hi> Mr. <hi>Haies &amp;c.</hi>—That he hath refuſed Biſhopricks from <hi>France</hi> and <hi>Spain.</hi>
+            </p>
+            <p>This Letter is ſigned <hi>John Laborn.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Laborns</hi> Letter to <hi>Coleman.</hi>
+               </note>In his Letter of <hi>July</hi> 10th. takes notice of the Popes receipt of the Dukes Letter, which made him ſhed Tears. That an anſwer will ſhortly be ſent, though upon the matter it hath been done anticipatedly—makes great expreſſions of his eſteem of the Duke.</p>
+            <p>In his Letter of <hi>January</hi> 1ſt 1678—ſaith the Dukes Let<g ref="char:EOLhyphen"/>ter
+<pb n="6" facs="tcp:47821:4"/>
+to the Pope, about the Marriage of his Daughter to the Prince of <hi>Orange</hi> hath been delivered—The Pope remains ſatisfied that the Duke was in no fault, but his intended anſwer will not touch that fault—</p>
+            <p>In his Letter of the 18th <hi>December</hi> 1677. takes notice, that the Duke of <hi>Modena</hi> intends a Voyage to <hi>London</hi>—</p>
+            <p>His Letter of the 28th of <hi>November,</hi> ſaith Mr. <hi>Coni's</hi> naming to Dutches <hi>Lauderdale</hi> Mr. <hi>Colemans</hi> Correſpondent is much wondred at here—</p>
+            <p>In his Letter of the 20th of <hi>November,</hi> takes notice of a Brief ſent to the Queen, from the Pope by an Iriſh-man, who delivered it to the Lady
+<hi>Fingal</hi>—</p>
+            <p>In his Letter of <hi>September</hi> 11th 1677. Cardinal <hi>Norfolk</hi> would know whether the Brief ſent the Queen be received—</p>
+            <p>In his Letter of the 23th of <hi>June</hi> 1677. takes notice that the Brief to the Duke is in Cardinal <hi>Norfolks</hi> hands, and that nothing finer or fuller could be expected in that kind—that two pair of Beads were ſent the Duke and Dutcheſs, from the Pope, with ample Indulgences—It's deſired ſome <hi>Engliſh</hi> Prieſts may be with the Popes <hi>Nuncio</hi> at <hi>Nineguen.</hi>
+            </p>
+            <p>In his Letter of <hi>July</hi> 24th. ſaith Mr. <hi>G. R.</hi> hath this day a Brief of the Pope in anſwer to the Letter of the Dukes—</p>
+            <p>Cardinal <hi>Norfolk's</hi> Letter of 27th. of <hi>July</hi> 1677. Takes notice of the Brief in Anſwer to the ſecond Letter of his Royal Highneſs, prays God to grant this new correſpondence a Bleſſing, whereof the whole Nation may experience happy effects—</p>
+            <p>In <hi>Laborns</hi> Letter of <hi>July</hi> 20th. nothing of Moment.</p>
+            <p>His Letter 16th of <hi>July,</hi> ſpeaks of a Match for the Lady Ann with the Duke of <hi>Florence</hi>—</p>
+            <p>His Letter of the 9th of <hi>July,</hi> ſhews the deſign of <hi>Rome</hi> to remove <hi>Plat,</hi> and to ſet the Inquiſition upon him—He hath writ more particularly to the Lord <hi>Arundel.</hi>
+            </p>
+            <p>His Letter of <hi>June</hi> 25. ſaith <hi>Plat</hi> hath been ſo impertinent as to own himſelf a Proteſtant.</p>
+            <p>
+               <pb n="7" facs="tcp:47821:4"/>In his Letter of <hi>October</hi> 1ſt 1678. nothing material.</p>
+            <p>In his Letter <hi>May</hi> 29th. acquaints him with the Miſcarriage of the Duke's Letter to the Pope, ſent by <hi>Con</hi> with a Brief, will be ſent to the Duke by Mr. <hi>Thomas Howard</hi>—The Duke's Letter was deli<g ref="char:EOLhyphen"/>vered to the Popes <hi>Nuncio</hi> in <hi>France.</hi>
+            </p>
+            <p>In his Letter of <hi>Auguſt</hi> 6th. owns the Receipt of a Letter from the Lord <hi>Arundel.</hi>
+            </p>
+            <p>In his Letter of <hi>Auguſt</hi> 20. nothing Material.</p>
+            <p>His Letter of <hi>Auguſt</hi> 17th, ſaith the Duke's Letter to the Pope miſcarried, deſires a Duplicate to ſupply it.</p>
+            <p>In his Letter of <hi>April</hi> 30th. the Lord <hi>Arundel</hi> is writ to, to get <hi>Plat</hi> out—</p>
+            <p>His Letter of <hi>Auguſt</hi> 13. ſaith the Duke of <hi>Florence</hi> is acquaint<g ref="char:EOLhyphen"/>ed with what the Lord <hi>Arundel</hi> and <hi>Coleman</hi> writ about, <hi>Plat</hi> takes it kindly.</p>
+            <p>There are many other Letters of much greater Moment, which were never Abſtracted, that we cannot yet come to the ſight of, being among other paſs ſeal'd up, and in the Cuſtody of the late ſecret Committee of the Houſe of Commons, and are not to be opened until the next Parliament.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
